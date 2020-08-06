@@ -12,13 +12,13 @@ Each script is structured to be run as a stand-alone script.  The file "mdbands.
 Note:  The scripts assume the P3 bone has been segmented properly prior to import into "mdbands.py". 
 
 Main Dependencies:
-python > 3.7
-numpy > 1.18.1
-opencv > 4.1
-matplotlib > 3.1.3
-scikit-image > 0.16.2
-skan > ?
-scipy > 1.4.1
+  -python > 3.7
+  -numpy > 1.18.1
+  -opencv > 4.1
+  -matplotlib > 3.1.3
+  -scikit-image > 0.16.2
+  -skan > ?
+  -scipy > 1.4.1
 
 Feel free to utilize the code, we simply ask you cite the work as follows:
 Hoffseth,K.F., Simkin, J., Busse, E., Stewart, K., Watt, J., Hargrove, A., Sammarco, M. "A new approach to analyzing regenerated bone quality in the mouse digit amputation model using semi-automatic processing of microCT data" BONE. Submitted August 2020.
